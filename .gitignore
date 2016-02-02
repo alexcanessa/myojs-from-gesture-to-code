@@ -1,0 +1,5 @@
+MyoSnap/bower_components
+MyoSnap/dist
+MyoSnap/.idea
+MyoSnap/.tmp
+**/node_modules
