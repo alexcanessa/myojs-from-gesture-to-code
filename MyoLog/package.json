@@ -1,0 +1,16 @@
+{
+  "name": "MyoLog",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alex Canessa",
+    "email": "canessa.alex@gmail.com",
+    "web": "https://github.com/alexcanessa"
+  },
+  "description": "Log what's happening in myo.",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "myo": "^2.1.1"
+  }
+}
