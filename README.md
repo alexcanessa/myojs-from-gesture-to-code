@@ -7,3 +7,9 @@ In the talk I'm explaining the Javascript library which allows to detect gesture
 ---
 
 This repo contains the live coding session source.
+
+---
+
+## The slides
+
+Everything is available on speaker deck at [this link](https://speakerdeck.com/alexcanessa/myojs-from-gesture-to-code-topconf-linz-2016)
