@@ -6,7 +6,7 @@ In the talk I'm explaining the Javascript library which allows to detect gesture
 
 ---
 
-This repo contains the live coding session source.
+This repo contains the live coding session source. For the *snap* music bit, there is a [different repo](https://github.com/alexcanessa/myousic)
 
 ---
 
